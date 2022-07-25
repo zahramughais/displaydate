@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+	text-align: center;
+}
+.blue {
+	color: blue;
+}
+.green {
+	color: green;
+}
+.main{
+	display: flex;
+	justify-content: center;
+	gap: 25%;
+	margin-top: 10%;
+}
